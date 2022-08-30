@@ -8,5 +8,3 @@
 
 [Skip to chat example:](https://a11y-guidelines.orange.com/en/web/components-examples/chatbot/)
 
-[Example of sound interaction] (https://a11y-guidelines.orange.com/en/web/components-examples/chatbot/#:~:text=says%E2%80%A6%22%20%2B%20title%3B%0A%7D-,Interactions,-Some%20conversations%20lead)
-
